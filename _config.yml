@@ -2,6 +2,4 @@ name: The Good Lounge
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-architect
-
 remote-theme: fongandrew/hydeout
